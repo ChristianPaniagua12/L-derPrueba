@@ -9,5 +9,5 @@ package nuevo;
  * @author jprod
  */
 public class JP {
-    //Clase creada por JP
+    private int cedula;
 }
