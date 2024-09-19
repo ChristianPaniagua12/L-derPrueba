@@ -15,5 +15,5 @@ public class nde {
     
     
     
-    
+    private int id;
 }
